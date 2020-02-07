@@ -8,4 +8,4 @@ Ok bhai ok.
 
 # IPsum adding
 
-Addoing some more ipsum
+Adding some more ipsum
