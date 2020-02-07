@@ -3,9 +3,6 @@
 This is the first file in the repo.
 
 # Ipsum Below
+Here are the files in the website:
 
-Ok bhai ok.
-
-# IPsum adding
-
-Adding some more ipsum
+1. index.html
